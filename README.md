@@ -10,6 +10,17 @@ This project is a simple weather application built with React.js. It allows user
 
 - Responsive Design: The app is responsive and works well on both desktop and mobile devices.
 
+
+## Objective
+
+The goal of this project is to identify and fix the issues within the weather application. This involves:
+
+- Debugging and resolving any existing problems to make the app fully functional.
+- Ensuring proper integration with the OpenWeatherMap API.
+- Verifying that the state management is handled correctly.
+- Improving the user interface and user experience.
+- Ensuring the app is responsive and works well on various devices.
+
 ## Getting Started
  - clone the repo.
  - fix the project issues
@@ -19,7 +30,6 @@ This project is a simple weather application built with React.js. It allows user
  - https://openweathermap.org/
  
 ### Installation
-
 
  ```bash
 npm install
