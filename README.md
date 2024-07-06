@@ -11,8 +11,13 @@ This project is a simple weather application built with React.js. It allows user
 - Responsive Design: The app is responsive and works well on both desktop and mobile devices.
 
 ## Getting Started
- clone the repo.
+ - clone the repo.
+ - fix the project issues
+ - send the final code
 
+ ## resources
+ - https://openweathermap.org/
+ 
 ### Installation
 
 
